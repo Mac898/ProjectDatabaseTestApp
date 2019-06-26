@@ -1,0 +1,21 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  job: MyString
+  job_description: MyString
+  po_number: MyString
+  manager: MyString
+  status: MyString
+  date: MyString
+  total: MyString
+  comment: MyString
+
+two:
+  job: MyString
+  job_description: MyString
+  po_number: MyString
+  manager: MyString
+  status: MyString
+  date: MyString
+  total: MyString
+  comment: MyString
